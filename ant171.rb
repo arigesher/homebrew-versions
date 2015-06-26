@@ -1,7 +1,7 @@
 class Ant171 < Formula
   desc "Java build tool (version 1.7.1)"
   homepage "https://ant.apache.org/"
-  url "http://archive.apache.org/dist/ant/binaries/apache-ant-1.7.1-bin.tar.bz2"
+  url "https://archive.apache.org/dist/ant/binaries/apache-ant-1.7.1-bin.tar.bz2"
   sha256 "24e54c9d90b81d1b7342695a8285a969393fd883e99ffbbc04203c106d9c2f97"
   head "https://git-wip-us.apache.org/repos/asf/ant.git"
 
